@@ -18,7 +18,6 @@ A pipeline for detecting AI-generated text using specialist models, calibration,
 ![Workflow](figures/figure01_workflow.png)
 ![Comparative Map](figures/figure02_comparative_map.png)
 ![Dataset Composition](figures/figure03_dataset_composition.png)
-![Specialist Training](figures/figure04_specialist_training.png)
 ![Calibration Workflow](figures/figure05_calibration_workflow.png)
 ![Reliability CG](figures/figure06_reliability_cg.png)
 ![Reviewer Mockup](figures/figure07_reviewer_mockup.png)
