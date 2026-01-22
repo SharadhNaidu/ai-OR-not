@@ -1,0 +1,17 @@
+torch
+transformers
+datasets
+accelerate
+scikit-learn
+xgboost
+joblib
+pandas
+numpy
+streamlit
+bitsandbytes
+tqdm
+nltk
+matplotlib
+pyarrow
+tiktoken
+sentencepiece

@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+.env
+.idea/
+
+# Data & model artifacts
+/data/
+/train.arrow/
+/test.arrow/
+*.arrow
+*.safetensors
+*.pt
+*.pth
+micro_chatgpt/
+micro_claude/
+micro_omni/
+checkpoint-*/
+
+# Caches & logs
+.cache/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
