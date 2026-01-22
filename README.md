@@ -27,4 +27,4 @@ A pipeline for detecting AI-generated text using specialist models, calibration,
 ![Latency Distribution](figures/figure10_latency_distribution.png)
 
 ## Notes
-- Large datasets, model checkpoints, and binary artifacts are excluded via `.gitignore`.
+- This is just a strip down version , will update the entire thing soon...
