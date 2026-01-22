@@ -5,7 +5,7 @@ A pipeline for detecting AI-generated text using specialist models, calibration,
 
 ## Project structure
 - Training pipeline scripts: `01_ingest_data.py` → `07_robustness_check.py`
-- App/Demo: `app.py`, `demo.py`
+- App: `app.py`
 - Config: `config.py`
 - Figures: `figures/`
 
